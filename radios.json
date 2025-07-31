@@ -22,5 +22,9 @@
     {
         "name" : "Радио Пайнер",
         "streamUrl": "http://87.120.6.86:8000/hq?1549405215950"
+    },
+    {
+        "name": "Радио N-Joy",
+        "streamUrl": "https://cdn.bweb.bg/radio/njoy.mp3"
     }
 ]
