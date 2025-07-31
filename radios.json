@@ -18,5 +18,9 @@
     {
         "name": "Радио Рок 1",
         "streamUrl": "https://23543.live.streamtheworld.com/RADIO_1_ROCKAAC_H.aac"
+    },
+    {
+        "name" : "Радио Пайнер",
+        "streamUrl": "http://87.120.6.86:8000/hq?1549405215950"
     }
 ]
