@@ -26,5 +26,17 @@
     {
         "name": "Радио N-Joy",
         "streamUrl": "https://cdn.bweb.bg/radio/njoy.mp3"
+    },
+    {
+        "name": "Радио Витоша",
+        "streamUrl": "https://cdn.bweb.bg/radio/vitosha.mp3"
+    },
+    {
+        "name": "Радио Веселина",
+        "streamUrl": "https://cdn.bweb.bg/radio/veselina.mp3"
+    },
+    {
+        "name": "Радио Фреш",
+        "streamUrl": "https://cdn.bweb.bg/radio/fresh.mp3"
     }
 ]
